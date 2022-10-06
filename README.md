@@ -1,1 +1,5 @@
-# aluno_MII_1707914
+nome:João Pedro Robalo 
+curso: mecânica e informática industrial
+
+
+Branch main
